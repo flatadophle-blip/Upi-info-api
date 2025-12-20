@@ -1,0 +1,15 @@
+{
+  "name": "zxosint-shaurya-ghost",
+  "version": "1.0.0",
+  "description": "Unified ZX OSINT API",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
