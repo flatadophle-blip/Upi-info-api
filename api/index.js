@@ -43,7 +43,7 @@ export default async function handler(req, res) {
         break;
 
       case "basicnum":
-        url = `https://ab-calltraceapi.vercel.app/info?number=${term}`;
+        url = `https://shaurya-said-baby-bubu-daba-du-pls.vercel.app/api?key=paid&type=mobile&term=number${term}`;
         break;
 
       case "pak":
